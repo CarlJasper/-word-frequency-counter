@@ -1,1 +1,1 @@
-# -word-frequency-counter
+# Carl Jasper Sabenacio & Cydric Vincent Torillo 
