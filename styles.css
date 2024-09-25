@@ -1,9 +1,15 @@
+
+/* Style the body and center the form */
+
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
     padding: 20px;
 }
+
+/* Style the form container */
 
 form {
     background-color: #fff;
@@ -14,6 +20,9 @@ form {
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
+
+
+/* Style form labels and inputs */
 
 label {
     font-weight: bold;
@@ -30,6 +39,9 @@ input[type="number"] {
     border: 1px solid #ccc;
     border-radius: 3px;
 }
+
+
+/* Style the submit button */
 
 input[type="submit"] {
     background-color: #007bff;
